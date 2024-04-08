@@ -1,2 +1,2 @@
-# T-SQL
-T-SQL projeto PETSHOP
+# P-SQL
+Banco de dados em POSTGRE para PETSHOP
