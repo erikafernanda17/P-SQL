@@ -1,2 +1,2 @@
 # P-SQL
-Banco de dados em POSTGRE para PETSHOP
+Implementação de banco de dados em POSTGRE para PETSHOP
